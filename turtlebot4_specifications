@@ -4,4 +4,5 @@ LiDAR 높이,        rplidar_z_offset 기반,          약 15.2 cm
 Depth 카메라 높이,  oakd_pro_z_offset 기반,         약 20.3 cm  
 최상단 플레이트 높이, tower_sensor_plate_z_offset,   약 30.5 cm
 
-카메라(LiDAR, Depth)(x,y): turtlebo4의 중심 기준(0,-4cm) 중심으로부터 4cm 뒤
+카메라(LiDAR)(x,y): turtlebo4의 중심 기준(0,-4cm) 중심으로부터 4cm 뒤
+카메라(depth)(x,y): turtlebo4의 중심 기준(0,-6cm) 중심으로부터 6cm 뒤
