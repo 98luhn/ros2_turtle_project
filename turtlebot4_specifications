@@ -1,5 +1,5 @@
 항목,              변수명(코드 내),                  바닥 기준 높이/반경
-로봇 최대 반경,      tower_sensor_plate radius,     13.7 cm
+로봇 최대 반경,      tower_sensor_plate radius,     13.7 cm   # 17 cm 로 설정 
 LiDAR 높이,        rplidar_z_offset 기반,          약 15.2 cm
 Depth 카메라 높이,  oakd_pro_z_offset 기반,         약 20.3 cm  
 최상단 플레이트 높이, tower_sensor_plate_z_offset,   약 30.5 cm
